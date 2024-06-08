@@ -1,5 +1,5 @@
 # Todo-List-app
-Making an app that can make a list to do in day/month/year, ...
+Creating an app that can make a list to do in day/month/year, ...
 
 #Branch
 I have 4 branch:
