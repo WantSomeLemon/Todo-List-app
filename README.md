@@ -8,3 +8,5 @@ I have 4 branch:
 - frontend
 - backend
   
+FronEnd Branch:
+- Using mainly react for UI 
